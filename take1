@@ -1,0 +1,17 @@
+							
+	Flexbox						
+		container	속성값				
+			display		display: flex;		
+			flex-direction		row, row-reverse;		column, column-revers
+			flex-wrap		nowrap(default)		wrap, wrap-reverse
+			flex-flow		flex-flow: column nowrap;		
+			jusify-content		flex-start, flex-end, center, space-around, space-evenly, space-between		
+			align-items		center, baseline		
+			align-content		flex-start, flex-end, center, space-around, space-evenly, space-between		
+							
+		item					
+			order				
+			flex-grow				
+			flex-shrink				
+			flex				
+			align-self				
